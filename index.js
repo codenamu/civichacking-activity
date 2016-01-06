@@ -2,11 +2,13 @@ var _ = require('underscore'),
     fs = require('fs'),
     github = require('octonode');
 
-var githubSecretKey = '47982605165387198cdb36a181baa1a78bc10f3a',
-    team_list = ['teampopong', 'peace-code', 'codeforseoul'],
+var teamList = ['teampopong', 'peace-code', 'codeforseoul', 'codeforincheon'],
     events = [];
 
-var client = github.client(githubSecretKey);
+var client = github.client({
+  username: process.env['githubUsername'],
+  password: process.env['githubPassword']
+});
 
 var getEventsByOrg = function (orgs_id) {
   return function (callback) {
@@ -17,7 +19,8 @@ var getEventsByOrg = function (orgs_id) {
         var fixedEvent = {};
         removeJsonDepth(el, fixedEvent);
         return fixedEvent;
-      })
+      });
+
       events = events.concat(body);
       callback();
     })
@@ -54,12 +57,13 @@ var createNewCsv = function (teams, callback) {
   })
 }
 
-var writeEventsToCsv function (events_list, file) {
-  events_list.sort(function(a,b){return Number(new Date(b.created_at)) - Number(new Date(a.created_at));});
-  _.each(events_list, function (event) {
+var writeEventsToCsv = function (events, file) {
+  events.sort(function(a,b){return Number(new Date(b.created_at)) - Number(new Date(a.created_at));});
+  _.each(events, function (event) {
     file.write(_.toArray(event).slice(0, 8).join(', ') + ', ' + event["created_at"] + '\n');
-  })
+  });
+  
   file.end();
 }
 
-createNewCsv(team_list, writeEventsToCsv);
+createNewCsv(teamList, writeEventsToCsv);

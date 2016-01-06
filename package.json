@@ -1,0 +1,33 @@
+{
+  "name": "civichacking-activity",
+  "version": "0.0.1",
+  "description": "transform korean civic hacking community activities on github to csv",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codenamu/civichacking-activity.git"
+  },
+  "keywords": [
+    "civic",
+    "hacking",
+    "시빅",
+    "해킹",
+    "code",
+    "for",
+    "seoul",
+    "코드포서울"
+  ],
+  "author": "Hoony <thechunsik@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/codenamu/civichacking-activity/issues"
+  },
+  "homepage": "https://github.com/codenamu/civichacking-activity#readme",
+  "dependencies": {
+    "octonode": "^0.7.4",
+    "underscore": "^1.8.3"
+  }
+}
