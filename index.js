@@ -1,63 +1,42 @@
 var _ = require('underscore'),
     fs = require('fs'),
-    github = require('octonode');
-
-var teamList = ['teampopong', 'peace-code', 'codeforseoul', 'codeforincheon'],
-    events = [];
+    github = require('octonode'),
+    Promise = require('promise');
+    
+var TEAMS = ['teampopong', 'peace-code', 'codeforseoul', 'codeforincheon', 'codenamu'];
 
 var client = github.client({
   username: process.env['githubUsername'],
   password: process.env['githubPassword']
 });
 
-var getEventsByOrg = function (orgs_id) {
-  return function (callback) {
+function getEventsByOrg (orgs_id) {
+  return new Promise(function(fulfill, reject) {
     client.get('/orgs/' + orgs_id + '/events', {}, function (err, status, body, headers) {
-      if (err) { return new Error(err) }
+      if (err) { return reject(err) };
 
       body = _.map(body, function (el) {
         var fixedEvent = {};
-        removeJsonDepth(el, fixedEvent);
+        flattenJson(el, fixedEvent);
         return fixedEvent;
       });
 
-      events = events.concat(body);
-      callback();
-    })
-  }
+      fulfill(body);
+    });
+  });
 }
 
-var removeJsonDepth = function (a, target) {
+function flattenJson (a, target) {
   for (key in a) {
     if(typeof a[key] == 'object') {
-      removeJsonDepth(a[key], target);
+      flattenJson(a[key], target);
     } else {
       target[key] = a[key];
     }
   }
 }
 
-var createNewCsv = function (teams, callback) {
-  var file = fs.createWriteStream("./community.csv");
-  file.on('error', function (err) {});
-  file.write("id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at \n");
-
-  _.each(teams, function (team, index, list) {
-    if (index == team_list.length-1) {
-      var getEventsByThisOrg = getEventsByOrg(team);
-      getEventsByThisOrg(function () {
-        callback(events, file);
-      }); 
-    } else { 
-      var getEventsByThisOrg = getEventsByOrg(team);
-      getEventsByThisOrg(function () {
-
-      });
-    }
-  })
-}
-
-var writeEventsToCsv = function (events, file) {
+function writeEventsToCsv (events, file) {
   events.sort(function(a,b){return Number(new Date(b.created_at)) - Number(new Date(a.created_at));});
   _.each(events, function (event) {
     file.write(_.toArray(event).slice(0, 8).join(', ') + ', ' + event["created_at"] + '\n');
@@ -66,4 +45,15 @@ var writeEventsToCsv = function (events, file) {
   file.end();
 }
 
-createNewCsv(teamList, writeEventsToCsv);
+function createCsvFile (teams) {
+  var file = fs.createWriteStream("./community.csv");
+  file.on('error', function (err) {});
+  file.write("id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at \n");
+
+  Promise.all(TEAMS.map(getEventsByOrg))
+    .done(function (result) {
+      writeEventsToCsv(_.flatten(result), file);
+    });
+}
+
+createCsvFile(TEAMS);

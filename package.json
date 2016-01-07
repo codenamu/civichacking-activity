@@ -28,6 +28,7 @@
   "homepage": "https://github.com/codenamu/civichacking-activity#readme",
   "dependencies": {
     "octonode": "^0.7.4",
+    "promise": "^7.1.1",
     "underscore": "^1.8.3"
   }
 }
