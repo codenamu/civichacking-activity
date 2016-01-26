@@ -3,7 +3,7 @@ var _ = require('underscore'),
     github = require('octonode'),
     Promise = require('promise');
     
-var TEAMS = ['teampopong', 'peace-code', 'codeforseoul', 'codeforincheon', 'codenamu', 'parti-xyz'];
+var TEAMS = ['teampopong', 'peace-code', 'codeforseoul', 'codeforincheon', 'codenamu', 'parti-xyz', 'showcase-framework'];
 
 var client = github.client({
   username: process.env['githubUsername'],
