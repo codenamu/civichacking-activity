@@ -1,4 +1,9 @@
 id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at 
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 967323696, 2016-02-07T15:22:55Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 967263903, 2016-02-07T12:58:39Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 967254961, 2016-02-07T12:34:04Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 967200563, 2016-02-07T09:56:01Z
+2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, thechunsik, 967107741, 2016-02-07T05:00:08Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, closed, 2016-02-06T14:03:01Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/parti-group, closed, 2016-02-06T14:02:49Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/parti-group, created, 2016-02-06T14:02:49Z
@@ -28,11 +33,7 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 966512364, 2016-02-06T04:29:37Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @rest515, created, 2016-02-06T04:15:28Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @rest515, reopened, 2016-02-06T03:58:04Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @rest515, created, 2016-02-06T03:58:04Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, rest515, 966499658, 2016-02-06T03:56:35Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, mozodev, 966372648, 2016-02-06T00:08:40Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 965940202, 2016-02-05T18:15:07Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 965583075, 2016-02-05T14:26:55Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, hoony, 965055465, 2016-02-05T06:16:59Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, hoony, 965053362, 2016-02-05T06:13:54Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, hoony, 965052671, 2016-02-05T06:12:55Z
@@ -80,8 +81,8 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 952648693, 2016-01-27T18:14:32Z
 14758651, PushEvent, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, SeungChul Lee, 952179065, 2016-01-27T13:26:17Z
 14758651, PushEvent, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, meruk, 952170884, 2016-01-27T13:20:20Z
-14758651, User, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, homepage, closed, 2016-01-27T13:02:29Z
 14758651, PushEvent, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, SeungChul Lee, 952147839, 2016-01-27T13:02:29Z
+14758651, User, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, homepage, closed, 2016-01-27T13:02:29Z
 14758651, Organization, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, homepage, opened, 2016-01-27T13:02:17Z
 14758651, CreateEvent, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, codeforincheon/homepage, myprofile, 2016-01-27T13:01:22Z
 14758651, PushEvent, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, heewon0704, 952118338, 2016-01-27T12:39:43Z
