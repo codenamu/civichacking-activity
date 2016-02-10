@@ -1,4 +1,6 @@
 id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at 
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 971004001, 2016-02-10T03:26:47Z
+2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, thechunsik, 969351018, 2016-02-09T05:00:09Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 968643521, 2016-02-08T18:15:16Z
 7872447, PushEvent, codeforseoul, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, git_dump, 968595521, 2016-02-08T17:40:14Z
 14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 967323696, 2016-02-07T15:22:55Z
@@ -7,8 +9,8 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 967200563, 2016-02-07T09:56:01Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, thechunsik, 967107741, 2016-02-07T05:00:08Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, closed, 2016-02-06T14:03:01Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/parti-group, closed, 2016-02-06T14:02:49Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/parti-group, created, 2016-02-06T14:02:49Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/parti-group, closed, 2016-02-06T14:02:49Z
 2258984, WatchEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, teampopong/pokr.kr, started, 2016-02-06T10:38:13Z
 2258984, WatchEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, teampopong/pokr.kr, started, 2016-02-06T10:37:51Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/parti-group, closed, 2016-02-06T09:31:06Z
@@ -34,7 +36,6 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, berry502, 966516895, 2016-02-06T04:42:11Z
 14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, dali, 966512364, 2016-02-06T04:29:37Z
 14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @rest515, created, 2016-02-06T04:15:28Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @rest515, reopened, 2016-02-06T03:58:04Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 965940202, 2016-02-05T18:15:07Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, hoony, 965055465, 2016-02-05T06:16:59Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, hoony, 965053362, 2016-02-05T06:13:54Z
