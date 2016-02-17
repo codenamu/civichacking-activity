@@ -1,38 +1,40 @@
 id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at 
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, mozodev, 978729899, 2016-02-16T03:48:04Z
-14800781, CreateEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, master, 2016-02-16T03:05:59Z
-14800781, CreateEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, repository, 2016-02-16T02:59:24Z
-14800781, WatchEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, started, 2016-02-16T02:52:47Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980580119, 2016-02-17T04:52:30Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/auth-api, opened, 2016-02-17T04:47:34Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980566276, 2016-02-17T04:33:41Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, created, 2016-02-17T04:31:51Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, created, 2016-02-17T04:31:04Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, closed, 2016-02-17T03:59:37Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, created, 2016-02-17T03:59:37Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980536978, 2016-02-17T03:54:51Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, created, 2016-02-17T03:38:16Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, opened, 2016-02-17T03:35:39Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, mozodev, 980513383, 2016-02-17T03:24:52Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, opened, 2016-02-17T03:09:02Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980495915, 2016-02-17T03:03:09Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980486611, 2016-02-17T02:52:01Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, closed, 2016-02-17T02:46:42Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, mozodev, 980482024, 2016-02-17T02:46:32Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T02:37:12Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, closed, 2016-02-17T02:23:39Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, created, 2016-02-17T02:23:39Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T02:19:28Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T02:17:59Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T02:17:37Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T02:16:29Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T02:16:09Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T02:16:03Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980411891, 2016-02-17T01:27:24Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980391486, 2016-02-17T01:05:48Z
+14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 980370317, 2016-02-17T00:44:57Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/parti-group, closed, 2016-02-17T00:13:15Z
+14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/catan-web, opened, 2016-02-17T00:12:22Z
+2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 979828302, 2016-02-16T18:15:45Z
+2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, thechunsik, 978780116, 2016-02-16T05:00:09Z
 7872447, PushEvent, codeforseoul, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, hoony, 978679148, 2016-02-16T02:41:14Z
 7872447, PushEvent, codeforseoul, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, git_dump, 978208147, 2016-02-15T18:40:42Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 978179246, 2016-02-15T18:15:40Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, opened, 2016-02-15T15:53:38Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, opened, 2016-02-15T15:52:03Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/auth-api, opened, 2016-02-15T15:48:13Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, mozodev, 977964552, 2016-02-15T15:46:32Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, opened, 2016-02-15T15:41:10Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 977838091, 2016-02-15T14:23:33Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 977817257, 2016-02-15T14:08:39Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, closed, 2016-02-15T13:42:48Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, created, 2016-02-15T13:42:48Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 977780526, 2016-02-15T13:42:04Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, created, 2016-02-15T12:25:19Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, closed, 2016-02-15T12:25:19Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, @phi4grv, created, 2016-02-15T12:17:52Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, rest515, 977671207, 2016-02-15T12:17:31Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, rest515, 977649644, 2016-02-15T11:59:40Z
 7872447, PushEvent, codeforseoul, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, hoony, 977645014, 2016-02-15T11:55:46Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, rest515, 977643097, 2016-02-15T11:54:09Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, rest515, 977622909, 2016-02-15T11:36:46Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, created, 2016-02-15T11:25:10Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, parti-xyz/auth-ui, opened, 2016-02-15T11:06:38Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, closed, 2016-02-15T11:00:31Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, created, 2016-02-15T11:00:30Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 977575501, 2016-02-15T10:58:52Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 977556929, 2016-02-15T10:44:57Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, created, 2016-02-15T10:39:00Z
-14800781, User, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, phi4grv, closed, 2016-02-15T10:39:00Z
-14800781, PushEvent, parti-xyz, , https://api.github.com/orgs/parti-xyz, https://avatars.githubusercontent.com/u/14800781?, Roy Jung, 977539356, 2016-02-15T10:31:13Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, thechunsik, 977238715, 2016-02-15T05:00:09Z
 2258984, WatchEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, teampopong/data-assembly, started, 2016-02-14T23:25:04Z
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, thechunsik, 976561343, 2016-02-14T05:00:09Z
@@ -156,12 +158,10 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, hoony, 943929250, 2016-01-21T08:34:56Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 943037976, 2016-01-20T18:14:15Z
 2258984, WatchEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, teampopong/popong-api, started, 2016-01-20T12:38:21Z
-2830729, PushEvent, codenamu, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, hoony, 942235994, 2016-01-20T09:02:00Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 941298461, 2016-01-19T18:14:05Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 939700355, 2016-01-18T18:14:03Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 937014909, 2016-01-15T18:13:52Z
 2258984, PushEvent, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 935442956, 2016-01-14T18:13:54Z
-2258984, User, teampopong, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, teampopong/pokr.kr, created, 2016-01-14T17:37:06Z
 2830742, User, peace-code, , https://api.github.com/orgs/peace-code, https://avatars.githubusercontent.com/u/2830742?, voteaward, dalikim/voteaward, 2016-01-10T13:54:30Z
 2830742, User, peace-code, , https://api.github.com/orgs/peace-code, https://avatars.githubusercontent.com/u/2830742?, voteaward, biniprc/voteaward, 2016-01-02T05:11:00Z
 2830742, GollumEvent, peace-code, , https://api.github.com/orgs/peace-code, https://avatars.githubusercontent.com/u/2830742?, peace-code/ansim.me, 공공데이터-활용-아이디어, 2015-12-22T15:31:25Z
