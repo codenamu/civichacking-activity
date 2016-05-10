@@ -1,9 +1,10 @@
 var _ = require('underscore'),
     fs = require('fs'),
     github = require('octonode'),
-    Promise = require('promise');
-    
-var TEAMS = ['teampopong', 'peace-code', 'codeforseoul', 'codeforincheon', 'codenamu', 'parti-xyz', 'showcase-framework'];
+    Promise = require('promise'),
+    config = require('./config');    
+
+var TEAMS = config.teams;
 
 var client = github.client({
   username: process.env['githubUsername'],
