@@ -1,4 +1,8 @@
 id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at 
+7872447, User, codeforseoul, AugeCho, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, codeforseoul/FdAS, 2016-07-01T03:12:53Z
+7872447, User, codeforseoul, AugeCho, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, codeforseoul/FdAS, 2016-07-01T01:06:06Z
+2258984, PushEvent, teampopong, popong-web, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 2016-06-30T18:23:04Z
+2830729, PushEvent, codenamu, hoonch3, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, thechunsik, 2016-06-30T04:00:13Z
 7872447, User, codeforseoul, AugeCho, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, codeforseoul/FdAS, 2016-06-30T03:47:58Z
 7872447, User, codeforseoul, AugeCho, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, codeforseoul/FdAS, 2016-06-30T03:47:55Z
 2258984, PushEvent, teampopong, popong-web, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 2016-06-29T18:22:59Z
@@ -50,8 +54,8 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 2258984, PushEvent, teampopong, popong-web, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 2016-06-13T18:21:46Z
 2830729, WatchEvent, codenamu, lexifdev, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, codenamu/official-assets-explorer, 2016-06-13T11:50:17Z
 2830729, User, codenamu, mozodev, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, codenamu/official-assets-explorer, 2016-06-13T11:36:17Z
-2830729, PushEvent, codenamu, mozodev, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, Yeongtaek Hong, 2016-06-13T11:25:33Z
 2830729, User, codenamu, mozodev, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, official-assets-explorer, 2016-06-13T11:25:33Z
+2830729, PushEvent, codenamu, mozodev, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, Yeongtaek Hong, 2016-06-13T11:25:33Z
 2830729, PushEvent, codenamu, hoonch3, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, Hoon Chang, 2016-06-13T03:14:20Z
 2830729, PushEvent, codenamu, hoonch3, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, Hoon Chang, 2016-06-13T02:47:18Z
 2258984, WatchEvent, teampopong, ianstream, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, teampopong/pokr.kr, 2016-06-11T09:49:44Z
@@ -65,10 +69,8 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 2258984, PushEvent, teampopong, popong-web, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 2016-06-06T18:21:17Z
 2258984, PushEvent, teampopong, popong-web, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 2016-06-03T18:21:10Z
 2258984, WatchEvent, teampopong, Pusnow, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, teampopong/data-for-rnd, 2016-06-03T12:23:46Z
-2258984, PushEvent, teampopong, popong-web, , https://api.github.com/orgs/teampopong, https://avatars.githubusercontent.com/u/2258984?, popong-web, 2016-06-02T18:21:08Z
 2830729, PushEvent, codenamu, hoonch3, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, Hoon Chang, 2016-06-02T08:45:04Z
 2830729, PushEvent, codenamu, hoonch3, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, Hoon Chang, 2016-06-01T08:21:34Z
-2830729, PushEvent, codenamu, hoonch3, , https://api.github.com/orgs/codenamu, https://avatars.githubusercontent.com/u/2830729?, Hoon Chang, 2016-06-01T08:07:57Z
 14758651, PushEvent, codeforincheon, yoohoogun114, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, yuhogyun, 2016-06-01T04:23:32Z
 7872447, User, codeforseoul, taosiqin1991, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, visualizing-transport, 2016-05-31T12:13:25Z
 2830742, PushEvent, peace-code, mozodev, , https://api.github.com/orgs/peace-code, https://avatars.githubusercontent.com/u/2830742?, Yeongtaek, Hong, 2016-05-31T03:11:35Z
@@ -122,8 +124,6 @@ id, type, login, gravatar_id, url, avatar_url, name, push_id, created_at
 16810391, WatchEvent, showcase-framework, , https://api.github.com/orgs/showcase-framework, https://avatars.githubusercontent.com/u/16810391?, showcase-framework/showcase, started, 2016-03-24T15:34:54Z
 14758651, PushEvent, codeforincheon, , https://api.github.com/orgs/codeforincheon, https://avatars.githubusercontent.com/u/14758651?, yuhogyun, 1029840945, 2016-03-21T10:21:46Z
 7872447, User, codeforseoul, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, codeforseoul/jonmat, opened, 2016-03-17T18:09:07Z
-7872447, User, codeforseoul, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, codeforseoul/jonmat, opened, 2016-03-17T18:08:34Z
-7872447, User, codeforseoul, , https://api.github.com/orgs/codeforseoul, https://avatars.githubusercontent.com/u/7872447?, how-to-contribute, mingyu-lee/how-to-contribute, 2016-03-15T04:28:40Z
 16810391, PushEvent, showcase-framework, , https://api.github.com/orgs/showcase-framework, https://avatars.githubusercontent.com/u/16810391?, hoony, 963483264, 2016-02-04T09:40:18Z
 16810391, PushEvent, showcase-framework, , https://api.github.com/orgs/showcase-framework, https://avatars.githubusercontent.com/u/16810391?, hoony, 963478909, 2016-02-04T09:36:59Z
 16810391, PushEvent, showcase-framework, , https://api.github.com/orgs/showcase-framework, https://avatars.githubusercontent.com/u/16810391?, hoony, 962066870, 2016-02-03T14:25:50Z
